@@ -4,10 +4,16 @@ import imagenes from "../Images/imagenes";
 const Header = () =>{
     return(
         <>
-        <div className="container-fluid">
+        <div className="container">
             <div className="row">
-                <div className="col-md"><img src={imagenes.logo} alt="La imagen no se encuentra disponible"/></div>
-                <div className="col-md">Derecha</div>
+                <div className="col-md"><img src={imagenes.logo} width="200px" alt="La imagen no se encuentra disponible"/></div>
+                <div className="col-md">
+                    <div className="row text-white text-center">
+                        <div className="col">SOBRE MI</div>
+                        <div className="col">COLECCIÓN</div>
+                        <div className="col">CONTACTO</div>
+                    </div>                
+                </div>
             </div>
         </div>
         </>
