@@ -5,7 +5,7 @@ const Header = () =>{
     return(
         <>
         <div className="container">
-            <div className="row">
+            <div className="row align-items-center">
                 <div className="col-md"><img src={imagenes.logo} width="200px" alt="La imagen no se encuentra disponible"/></div>
                 <div className="col-md">
                     <div className="row text-white text-center">
