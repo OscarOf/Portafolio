@@ -4,6 +4,7 @@ import Header from './Components/Header';
 import Main from './Components/Main';
 import Slider from './Components/Slider';
 import Contact from './Components/Contact';
+import Footer from './Components/Footer';
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Main />
       <Slider />
       <Contact />
+      <Footer />
     </div>
   );
 }
