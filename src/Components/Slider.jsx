@@ -15,10 +15,11 @@ const Slider = () => {
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
-                        <img className="d-block w-80" src={imagenes.logo} alt="La imagen no se encuentra disponible" />
+                        <img className="d-block w-100" src={imagenes.Repo2} alt="La imagen no se encuentra disponible" />
                         <Carousel.Caption>
-                            <h3>Repositorio DOS</h3>
-                            <p>Descripción</p>
+                            <h3>Tetris JS</h3>
+                            <p>Este proyecto lo realizamos mediante un tutorial de Youtube, es mi primer reto con Javascript aplicando Canva.
+                            <a href="https://tetris-r85x.vercel.app"> Pruébalo</a></p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
