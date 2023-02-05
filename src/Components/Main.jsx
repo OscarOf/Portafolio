@@ -7,9 +7,9 @@ const Main = () =>{
             <div className="row picture">
                 <div className="col text-white">
                     <p>
-                        HOLA, SOY ÓSCAR
-                        Al llegar a un nuevo trabajo me gusta adquirir nuevos conocimientos y exponer innovadoras ideas. Mi misión en cualquier trabajo 
-                        es aportar mis conocimientos, cumplir los objetivos de la empresa y de mi equipo de trabajo.
+                        HOLA, SOY ÓSCAR<br></br>
+                        Bienvenido a mi portafolio, aquí podrás encontrar los proyecto de los que he hecho parte desde el aspecto front como en el back.
+                        Estos proyectos fueron desarrollados en gran parte con tecnologías como NodeJs, Javascript, React, Java, Spring y Primefaces.
                     </p>
                 </div>
                 <div className="col">
