@@ -1,15 +1,16 @@
 import React from "react";
+import imagenes from "../Images/imagenes";
 
 const Contact = () =>{
     return(
         <>
         <div className="container">
             <div className="row justify-content-center text-center">
-                <div className="col-6">CORREO</div>
+                <div className="col-6"><img src={imagenes.Mail} width="80"/></div>
             </div>
             <div className="row justify-content-around text-center">
-                <div className="col-4">REPOSITORIO</div>
-                <div className="col-4">LINKEDIN</div>
+                <div className="col-4"><a href="https://github.com/OscarOf"><img src={imagenes.Git} width="80"/></a></div>
+                <div className="col-4"> <a href="https://www.linkedin.com/in/oscar-orjuela-423a79264/"><img src={imagenes.Linkedin} width="75"/></a></div>
             </div>            
         </div>
         </>
