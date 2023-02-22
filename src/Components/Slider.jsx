@@ -23,10 +23,10 @@ const Slider = () => {
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
-                        <img className="d-block w-80" src={imagenes.logo} alt="La imagen no se encuentra disponible" />
+                        <img className="d-block w-100" src={imagenes.Repo3} alt="La imagen no se encuentra disponible" />
                         <Carousel.Caption>
                             <h3>MovieCRUD</h3>
-                            <p>Este fue nuestro primer  proyecto de nodeJS, el cual se implementa Express, MongoDB y React</p>
+                            <p>Este fue nuestro primer  proyecto de nodeJS, el cual se implementa Express, MongoDB y React <a href="https://crud-peliculas-front.vercel.app/"> Pruébalo</a></p>
                         </Carousel.Caption>
                     </Carousel.Item>
                 </Carousel>
