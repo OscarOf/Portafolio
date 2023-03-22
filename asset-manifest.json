@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.630ecde4.css",
-    "main.js": "/Portafolio/static/js/main.9ed49060.js",
+    "main.css": "/Portafolio/static/css/main.b4d5833b.css",
+    "main.js": "/Portafolio/static/js/main.d0b53301.js",
     "static/js/787.ae0d8d37.chunk.js": "/Portafolio/static/js/787.ae0d8d37.chunk.js",
     "static/media/RepoMortalDev.png": "/Portafolio/static/media/RepoMortalDev.493a88de5ad8681eee11.png",
     "static/media/RepoTetris.png": "/Portafolio/static/media/RepoTetris.fabfeef6a8b490d3203e.png",
@@ -10,12 +10,12 @@
     "static/media/LOGO.png": "/Portafolio/static/media/LOGO.2f4b2202e7b5f60bd4e3.png",
     "static/media/github.png": "/Portafolio/static/media/github.a5527b5c02e754fc4a6d.png",
     "index.html": "/Portafolio/index.html",
-    "main.630ecde4.css.map": "/Portafolio/static/css/main.630ecde4.css.map",
-    "main.9ed49060.js.map": "/Portafolio/static/js/main.9ed49060.js.map",
+    "main.b4d5833b.css.map": "/Portafolio/static/css/main.b4d5833b.css.map",
+    "main.d0b53301.js.map": "/Portafolio/static/js/main.d0b53301.js.map",
     "787.ae0d8d37.chunk.js.map": "/Portafolio/static/js/787.ae0d8d37.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.630ecde4.css",
-    "static/js/main.9ed49060.js"
+    "static/css/main.b4d5833b.css",
+    "static/js/main.d0b53301.js"
   ]
 }
