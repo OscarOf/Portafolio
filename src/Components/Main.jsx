@@ -1,4 +1,5 @@
 import React from "react";
+import imagenes from "../Images/imagenes";
 
 const Main = () =>{
     return(
@@ -12,8 +13,8 @@ const Main = () =>{
                         Estos proyectos fueron desarrollados en gran parte con tecnologías como NodeJs, Javascript, React, Java, Spring y Primefaces.
                     </p>
                 </div>
-                <div className="col">
-                    <img alt="La imagen no se encuentra disponible"/>
+                <div className="col photo">
+                    <img src={imagenes.logo} width="250px" alt="La imagen no se encuentra disponible"/>
                 </div>
             </div>
         </div>
