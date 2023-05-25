@@ -19,7 +19,7 @@ const Slider = () => {
                         <Carousel.Caption>
                             <h3>Tetris JS</h3>
                             <p>Este proyecto lo realizamos mediante un tutorial de Youtube, era nuestro primer reto con Javascript aplicando Canva.
-                            <a href="https://tetris-r85x.vercel.app"> Pruébalo</a></p>
+                            <a target="blank" href="https://tetris-r85x.vercel.app"> Pruébalo</a></p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
@@ -27,6 +27,14 @@ const Slider = () => {
                         <Carousel.Caption>
                             <h3>MovieCRUD</h3>
                             <p>Este fue nuestro primer  proyecto de nodeJS, el cual se implementa Express, MongoDB y React <a href="https://crud-peliculas-front.vercel.app/"> Pruébalo</a></p>
+                        </Carousel.Caption>
+                    </Carousel.Item>
+                    <Carousel.Item>
+                        <img className="d-block w-100" src={imagenes.Repo4} alt="La imagen no se encuentra disponible" />
+                        <Carousel.Caption>
+                            <h3>Corporación Semillas</h3>
+                            <p>Este fue nuestro proyecto final, el cual se desarrolló para solucionar la problemática de recolección de donaciones de la Corporación Semillas de Esperanza en la comuna 3 de Medellín                                  
+                                <a href="https://corpo-front.vercel.app/"> Visítalo</a></p>
                         </Carousel.Caption>
                     </Carousel.Item>
                 </Carousel>
